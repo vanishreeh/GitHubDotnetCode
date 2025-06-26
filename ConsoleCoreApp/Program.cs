@@ -151,6 +151,7 @@ namespace ConsoleCoreApp
             Console.WriteLine($"Total time taken is ::{totalTime.TotalSeconds}");//0.0064
             #endregion
             Console.WriteLine("working with github");
+            Console.WriteLine("working on payment");
 
 
         }
